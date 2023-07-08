@@ -9,9 +9,7 @@ Heavily inspired by @tsoding approach of learning new languages
 - LOVE 11.4 [https://love2d.org/](https://love2d.org/)
 - Lua 5.4.6 [http://www.lua.org/](http://www.lua.org/)
 
-# Build the game
-Just run the following command in the game folder
-
+# Run the game
 ```
 love ./
 ```
